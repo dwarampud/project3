@@ -7,7 +7,7 @@ This is a web based application developed for health related  based website in i
 
 
 **Project Link** - https://lively-island-0693ad000.3.azurestaticapps.net/
-**Project demo vedio link** -
+**Project demo vedio link** -https://youtu.be/0sfM_6YnCng
 
 **Azure technologies used for Project** - 
 Static web apps,
